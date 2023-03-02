@@ -1,0 +1,12 @@
+.Ds_Store
+dist
+.env
+.idea
+node_modules/
+docs/public/
+src/dataAccess/mysql/entities/*.bak
+diffs
+script/commit.sh
+script/deploy.sh
+*.log
+.local_image_tag
